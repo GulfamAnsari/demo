@@ -1,0 +1,19 @@
+.individualCard {
+    min-height: 200px;
+    border: solid 1px;
+    padding: 4px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.leftName {
+    display: flex;
+}
+
+.rightName {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
